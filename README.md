@@ -50,4 +50,4 @@ Most system failures are not caused by technology, but by mismatches between sys
 ## Links
 
 Portfolio: https://andreluis.tech  
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: https://linkedin.com/in/andre-pereira/
